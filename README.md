@@ -25,7 +25,7 @@ Freelance Marketplace Django is a powerful platform built on Django, facilitatin
 
 ## Features
 
-- **User Authentication**: Secure sign-up and login functionalities with password hashing and JWT tokens.
+- **User Authentication**: Secure sign-up and login functionalities with password hashing.
 - **Service Management**: Easy-to-use interface for freelancers to list, edit, and manage their services, including pricing and descriptions.
 - **Order Processing**: Smooth order management system with real-time updates on order status.
 - **Real-time Chat**: Built-in chat functionality for direct communication between freelancers and clients.
