@@ -20,3 +20,4 @@ python-dotenv==1.0.0
 dj-database-url==2.0.0
 whitenoise==6.5.0
 gunicorn
+whitenoise
